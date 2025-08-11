@@ -1,2 +1,4 @@
 GIT FILE TO FIX THE FILES 
 fixing another file 
+another bug detected and fixed
+Fourth bug fixed
