@@ -3,3 +3,4 @@ fixing another file
 another bug detected and fixed
 Fourth bug fixed
 another fix message for the pink branch
+another for the purple mode
